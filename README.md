@@ -12,7 +12,7 @@
     <title>abcbet :Pengalaman Bermain Game Resmi yang Lebih Aman dan Menguntungkan</title>
     <meta name="description" content="abcbet Keamanan menjadi faktor utama dalam memilih game resmi. Dengan sistem yang terenkripsi, data pemain terlindungi dengan baik. Hal ini memberikan rasa nyaman saat bermain.">
     <meta name="keywords" content="abcbet, abcbet, BANDAR TOGEL, TOGEL ONLINE, BANDAR TOGEL ONLINE, BANDAR TOGEL RESMI" />
-    <link rel="canonical" href="https://abcbet-it.github.io/">
+    <link rel="canonical" href="https://abcbet.github.io/">
     <link rel="amphtml" href="https://happycuan.pages.dev/"/>
     <meta name="google-site-verification" content="iXAdiHuls7-azie2s2O6HNzsDLeZJCZwY7vzmyxDRVw" />
     <!-- /snippets/social-meta-tags.liquid -->
@@ -27,7 +27,7 @@
     <meta property="og:description" content="abcbet Keamanan menjadi faktor utama dalam memilih game resmi. Dengan sistem yang terenkripsi, data pemain terlindungi dengan baik. Hal ini memberikan rasa nyaman saat bermain.">
     <meta property="og:price:amount" content="10,000-,">
     <meta property="og:price:currency" content="IDR">
-    <meta property="og:url" content="https://abcbet-it.github.io/">
+    <meta property="og:url" content="https://abcbet.github.io/">
     <meta property="og:site_name" content="abcbet">
     <meta name="twitter:site" content="@abcbet">
     <meta name="twitter:card" content="summary">
@@ -142,7 +142,7 @@
 <script src="//code.jquery.com/ui/1.13.0/jquery-ui.min.js"></script>
 <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
 <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/15896833/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://abcbet-it.github.io/">
+<link rel="alternate" type="application/json+oembed" href="https://abcbet.github.io/">
 <script async="async" src="/checkouts/internal/preloads.js?locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"d2e176e59f6658d5056234d6249b3ab4","betas":["rich-media-storefront-analytics"],"domain":"outerbloom.com","predictiveSearch":true,"shopId":15896833,"locale":"en"}</script>
 <script>var Shopify = Shopify || {};
@@ -451,7 +451,7 @@ Shopify.routes.root = "/";</script>
     
     
     <div class="notification__message text-center">
-      <p><a href="https://abcbet-it.github.io/" title="abcbet">abcbet :Pengalaman Bermain Game Resmi yang Lebih Aman dan Menguntungkan</a></p>
+      <p><a href="https://abcbet.github.io/" title="abcbet">abcbet :Pengalaman Bermain Game Resmi yang Lebih Aman dan Menguntungkan</a></p>
     </div>
   </div>
 </div>
@@ -466,7 +466,7 @@ Shopify.routes.root = "/";</script>
 <header style="background-color: #f7f3f3;">
   <div class="container">
     <div class="header-container row justify-content-between pl-lg-0 pr-lg-0">
-        <a href="https://abcbet-it.github.io/">
+        <a href="https://abcbet.github.io/">
         <img src="https://s13.gifyu.com/images/bverL.gif" alt="log-abcbet" style="width: 190px;"></a>
       <link href="https://s13.gifyu.com/images/bveF0.webp" rel="shortcut icon" type="image/x-icon" />
         <div id="menu-hamburger" class="d-lg-none">
@@ -482,7 +482,7 @@ Shopify.routes.root = "/";</script>
 
       <div class="header-icon-right header-icons col-3">
         <div class="icon icon-account-header d-none d-lg-block">
-          <a href="https://abcbet-it.github.io/">
+          <a href="https://abcbet.github.io/">
             <svg xmlns="https://s13.gifyu.com/images/bverL.gif" width="20" height="21" viewBox="0 0 20 21" fill="none">
   <path d="M19.015 19.8549C18.4842 18.3662 17.3117 17.0514 15.6819 16.1134C14.052 15.1754 12.0547 14.6667 10.0002 14.6667C7.94569 14.6667 5.94835 15.1754 4.31852 16.1134C2.68869 17.0514 1.51618 18.3662 0.985352 19.8549" stroke="#212121" stroke-linecap="round"/>
   <path d="M10.0002 10C12.5775 10 14.6668 7.91068 14.6668 5.33335C14.6668 2.75602 12.5775 0.666687 10.0002 0.666687C7.42283 0.666687 5.3335 2.75602 5.3335 5.33335C5.3335 7.91068 7.42283 10 10.0002 10Z" stroke="#212121" stroke-linecap="round"/>
@@ -491,7 +491,7 @@ Shopify.routes.root = "/";</script>
           </a>
         </div>
         <div class="icon icon-wishlist-header">
-          <a href="https://abcbet-it.github.io/">
+          <a href="https://abcbet.github.io/">
             <svg xmlns="https://s13.gifyu.com/images/bverL.gif" width="24" height="21" viewBox="0 0 24 21" fill="none">
   <path d="M17.4688 0.8125C15.1237 0.8125 13.1025 1.92703 12 3.77328C10.8975 1.92703 8.87625 0.8125 6.53125 0.8125C4.8494 0.814526 3.23702 1.48353 2.04778 2.67278C0.858534 3.86202 0.189526 5.47441 0.1875 7.15625C0.1875 10.2833 2.15625 13.5514 6.02813 16.8677C7.81594 18.3889 9.74622 19.7342 11.7922 20.885C11.856 20.9195 11.9274 20.9375 12 20.9375C12.0726 20.9375 12.144 20.9195 12.2078 20.885C14.2538 19.7342 16.1841 18.3889 17.9719 16.8677C21.8438 13.5514 23.8125 10.2833 23.8125 7.15625C23.8105 5.47441 23.1415 3.86202 21.9522 2.67278C20.763 1.48353 19.1506 0.814526 17.4688 0.8125ZM12 19.9991C10.4688 19.1241 1.0625 13.5077 1.0625 7.15625C1.06424 5.70638 1.64096 4.31639 2.66618 3.29118C3.69139 2.26596 5.08138 1.68924 6.53125 1.6875C8.84016 1.6875 10.7805 2.92453 11.5953 4.91516C11.6283 4.9954 11.6843 5.06403 11.7564 5.11233C11.8285 5.16063 11.9133 5.18642 12 5.18642C12.0867 5.18642 12.1715 5.16063 12.2436 5.11233C12.3157 5.06403 12.3717 4.9954 12.4047 4.91516C13.2195 2.92453 15.1598 1.6875 17.4688 1.6875C18.9186 1.68924 20.3086 2.26596 21.3338 3.29118C22.359 4.31639 22.9358 5.70638 22.9375 7.15625C22.9375 13.5 13.5312 19.1284 12 19.9991Z" fill="#212121"/>
 </svg>
@@ -500,7 +500,7 @@ Shopify.routes.root = "/";</script>
           </a>
         </div>
         <div class="icon icon-cart-header">
-          <a href="https://abcbet-it.github.io/">
+          <a href="https://abcbet.github.io/">
             <svg xmlns="https://s13.gifyu.com/images/bverL.gif" width="22" height="21" viewBox="0 0 22 21" fill="none">
   <path d="M6.33301 10V5.33335C6.33301 4.09568 6.82467 2.90869 7.69984 2.03352C8.57501 1.15835 9.762 0.666687 10.9997 0.666687C12.2374 0.666687 13.4243 1.15835 14.2995 2.03352C15.1747 2.90869 15.6663 4.09568 15.6663 5.33335V10" stroke="#212121" stroke-linecap="round"/>
   <path d="M1.30956 10.7793C1.47873 8.74817 1.56389 7.73317 2.23356 7.116C2.90323 6.49883 3.92289 6.5 5.96106 6.5H16.0399C18.0769 6.5 19.0966 6.5 19.7662 7.116C20.4359 7.732 20.5211 8.74817 20.6902 10.7793L21.2899 17.973C21.3879 19.1548 21.4369 19.7463 21.0916 20.1232C20.7439 20.5 20.1512 20.5 18.9636 20.5H3.03623C1.84973 20.5 1.25589 20.5 0.909392 20.1232C0.562892 19.7463 0.611892 19.1548 0.711059 17.973L1.30956 10.7793Z" stroke="#212121"/>
@@ -518,7 +518,7 @@ Shopify.routes.root = "/";</script>
     <div class="col-6 welcome-cust p-0">
       
         <h1 class="logo">
-    <a href="https://abcbet-it.github.io/">
+    <a href="https://abcbet.github.io/">
         <img src="https://s13.gifyu.com/images/bverL.gif" alt="abcbet" style="max-height:60px;">
     </a>
 </h1>
@@ -533,29 +533,29 @@ Shopify.routes.root = "/";</script>
   <ul class="nav-menu container">
     
       <li class="nav-menu container">
-        <a href="https://abcbet-it.github.io/">
+        <a href="https://abcbet.github.io/">
           <span style="color: #ffffff;">abcbet</span>
         
     
       <li class=" nav-menu container">
-        <a href="https://abcbet-it.github.io/">
+        <a href="https://abcbet.github.io/">
           <span style="color: #ffffff;">abcbet</span>
           
     
       <li class=" nav-menu container">
-        <a href="https://abcbet-it.github.io/">
+        <a href="https://abcbet.github.io/">
           <span style="color: #ffffff;">BANDAR TOGEL</span>
     
       <li class=" nav-menu container">
-        <a href="https://abcbet-it.github.io/">
+        <a href="https://abcbet.github.io/">
           <span style="color: #ffffff;">TOGEL ONLINE</span>
 
       <li class=" nav-menu container">
-        <a href="https://abcbet-it.github.io/">
+        <a href="https://abcbet.github.io/">
           <span style="color: #ffffff;">BANDAR TOGEL ONLINE</span>
 
       <li class=" nav-menu container">
-        <a href="https://abcbet-it.github.io/">
+        <a href="https://abcbet.github.io/">
           <span style="color: #ffffff;">BANDAR TOGEL RESMI</span>
       
 <div class="overlay-nav">
@@ -1943,7 +1943,7 @@ Shopify.routes.root = "/";</script>
 </style>
 <div class="container" style="color: #ffffff;">
   <ul role="navigation" aria-label="breadcrumbs">
-    <li><a href="https://abcbet-it.github.io/" style="color: #ffffff;">abcbet</a></li>
+    <li><a href="https://abcbet.github.io/" style="color: #ffffff;">abcbet</a></li>
     <li><svg xmlns="https://s13.gifyu.com/images/bverL.gif" width="7" height="10" viewBox="0 0 7 10" fill="none">
     <path d="M1.51673 0.0583496L6.2334 4.77502L1.51673 9.49168L0.933398 8.90002L5.0584 4.77502L0.933398 0.650016L1.51673 0.0583496Z" fill="#757575"/>
 </svg></li>
@@ -1970,10 +1970,10 @@ Shopify.routes.root = "/";</script>
   },
   "sku": "abcbet",
   "mpn": "abcbet",
-  "url": "https://abcbet-it.github.io/",
+  "url": "https://abcbet.github.io/",
   "offers": {
     "@type": "Offer",
-    "url": "https://abcbet-it.github.io/",
+    "url": "https://abcbet.github.io/",
     "priceCurrency": "USD",
     "price": "10.00",
     "priceValidUntil": "2026-12-31",
@@ -2026,37 +2026,37 @@ Shopify.routes.root = "/";</script>
       "@type": "ListItem",
       "position": 1,
       "name": "abcbet",
-      "item": "https://abcbet-it.github.io/"
+      "item": "https://abcbet.github.io/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "abcbet",
-      "item": "https://abcbet-it.github.io/"
+      "item": "https://abcbet.github.io/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "BANDAR TOGEL",
-      "item": "https://abcbet-it.github.io/"
+      "item": "https://abcbet.github.io/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOGEL ONLINE",
-      "item": "https://abcbet-it.github.io/"
+      "item": "https://abcbet.github.io/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "BANDAR TOGEL ONLINE",
-      "item": "https://abcbet-it.github.io/"
+      "item": "https://abcbet.github.io/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "abcbet :Pengalaman Bermain Game Resmi yang Lebih Aman dan Menguntungkan",
-      "item": "https://abcbet-it.github.io/"
+      "item": "https://abcbet.github.io/"
     }
   ]
 }
@@ -2114,7 +2114,7 @@ Shopify.routes.root = "/";</script>
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "TOTO TOGEL",
-  "url": "https://abcbet-it.github.io/",
+  "url": "https://abcbet.github.io/",
   "logo": "https://s13.gifyu.com/images/bverL.gif",
   "sameAs": [
     "https://www.facebook.com/abcbet",
@@ -2143,7 +2143,7 @@ Shopify.routes.root = "/";</script>
   ],
   "uploadDate": "2024-09-28T04:19:10-04:00",
   "duration": "PT168",
-  "contentUrl": "https://abcbet-it.github.io/"
+  "contentUrl": "https://abcbet.github.io/"
 }
 </script>
 
@@ -2156,7 +2156,7 @@ Shopify.routes.root = "/";</script>
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://abcbet-it.github.io/"
+      "item": "https://abcbet.github.io/"
     }
   ]
 }
@@ -2168,27 +2168,27 @@ Shopify.routes.root = "/";</script>
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://abcbet-it.github.io//#org",
+      "@id": "https://abcbet.github.io//#org",
       "name": "abcbet",
-      "url": "https://abcbet-it.github.io/",
+      "url": "https://abcbet.github.io/",
       "logo": "https://s13.gifyu.com/images/bqd5L.png"
     },
     {
       "@type": "WebSite",
-      "@id": "https://abcbet-it.github.io//#website",
-      "url": "https://abcbet-it.github.io/",
+      "@id": "https://abcbet.github.io//#website",
+      "url": "https://abcbet.github.io/",
       "name": "abcbet",
-      "publisher": { "@id": "https://abcbet-it.github.io//#org" },
+      "publisher": { "@id": "https://abcbet.github.io//#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://abcbet-it.github.io//?s={search_term_string}",
+        "target": "https://abcbet.github.io//?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://abcbet-it.github.io//#app",
+      "@id": "https://abcbet.github.io//#app",
       "name": "abcbet",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -2215,7 +2215,7 @@ Shopify.routes.root = "/";</script>
 
 
 <div class="product-standing-flower" data-product-type="flowerBoard">
-  <meta itemprop="url" content="https://abcbet-it.github.io/">
+  <meta itemprop="url" content="https://abcbet.github.io/">
   <meta itemprop="image" content="https://s13.gifyu.com/images/bqd5L.png">
 
   
@@ -7179,7 +7179,7 @@ document.addEventListener('DOMContentLoaded', function() {
 "price": 835000,
 "priceValidUntil": "05-10-2025",
 "priceCurrency": "IDR",
-"url": "https://abcbet-it.github.io/"
+"url": "https://abcbet.github.io/"
 },
 "brand": {
 "@type": "Brand",
@@ -7190,7 +7190,7 @@ document.addEventListener('DOMContentLoaded', function() {
 "name": "abcbet :Pengalaman Bermain Game Resmi yang Lebih Aman dan Menguntungkan",
 "description": "abcbet Keamanan menjadi faktor utama dalam memilih game resmi. Dengan sistem yang terenkripsi, data pemain terlindungi dengan baik. Hal ini memberikan rasa nyaman saat bermain.",
 "category": "abcbet Keamanan menjadi faktor utama dalam memilih game resmi. Dengan sistem yang terenkripsi, data pemain terlindungi dengan baik. Hal ini memberikan rasa nyaman saat bermain.",
-"url": "https://abcbet-it.github.io/",
+"url": "https://abcbet.github.io/",
 "image": {
 "@type": "ImageObject",
 "url": "https://s13.gifyu.com/images/bveF0.webp",
